@@ -1,5 +1,3 @@
-# The Pretrained Model Downloading Space
-
 ## YOLO
 
 | version | provided by | original URL | Proxy |
