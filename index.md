@@ -2,6 +2,6 @@
 
 | version | provided by | original URL | Proxy |
 | ------- | ----------- | ------------ | ----- |
-| v5, small | ultralytics | https://pytorch.org/hub/ultralytics_yolov5/ | [download from the space](yolo/v5/yolov5-master.zip) |
+| v5, small | ultralytics | https://pytorch.org/hub/ultralytics_yolov5/ | [model](yolo/v5/ultralytics/v3.1/models/yolov5s.yaml)<br>[weights](yolo/v5/ultralytics/v3.1/weights/yolov5s.pt)<br> |
 
 
