@@ -5,5 +5,5 @@
 | <img src='imgs/BK2-MOV.gif'/> | <img src='imgs/my2.gif' width=320px/> | |
 | <img src='imgs/BK3-MOV.gif'/> | <img src='imgs/my3.gif' width=320px/> | |
 | <img src='imgs/FR3-MOV.gif'/> | <img src='imgs/front3.gif' width=320px/> | |
-| <img src='imgs/biking2-MOV.gif'/><br> | <img src='imgs/biking2.gif' width=320px/><br> | <img src='imgs/biking2-mm.gif' width=320px/><br>(PSNR: ~20) |
+| <img src='imgs/biking2-MOV.gif'/><br>&nbsp; | <img src='imgs/biking2.gif' width=320px/><br>&nbsp; | <img src='imgs/biking2-mm.gif' width=320px/><br>(PSNR: ~20) |
 
